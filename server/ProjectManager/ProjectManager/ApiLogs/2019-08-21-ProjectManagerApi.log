@@ -1,0 +1,250 @@
+2019-08-21 18:35:50.6320|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: d2af7856-e098-4b92-9453-d7d4064451d6
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:35:50.6320|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: a089025e-fd37-41a6-8e52-b59ab5bbecff
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:35:50.7290|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: a089025e-fd37-41a6-8e52-b59ab5bbecff
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:35:50.7290|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: d2af7856-e098-4b92-9453-d7d4064451d6
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:35:52.1178|INFO|ProjectManager.Utils.LoggingUtility|Request ID: a089025e-fd37-41a6-8e52-b59ab5bbecff
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'IIS APPPOOL\ProjectManagerServer'.
+
+
+2019-08-21 18:35:52.1178|INFO|ProjectManager.Utils.LoggingUtility|Request ID: d2af7856-e098-4b92-9453-d7d4064451d6
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'IIS APPPOOL\ProjectManagerServer'.
+
+
+2019-08-21 18:36:22.0622|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: ee0154b9-e5d3-4c56-91db-d1581d16471d
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:36:22.0622|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: ee0154b9-e5d3-4c56-91db-d1581d16471d
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:36:22.0622|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: f9e67e59-ac52-488a-b9ab-c56c7a5443a9
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:36:22.0622|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: f9e67e59-ac52-488a-b9ab-c56c7a5443a9
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:36:22.0902|INFO|ProjectManager.Utils.LoggingUtility|Request ID: ee0154b9-e5d3-4c56-91db-d1581d16471d
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: No process is on the other end of the pipe
+
+
+2019-08-21 18:36:22.0902|INFO|ProjectManager.Utils.LoggingUtility|Request ID: f9e67e59-ac52-488a-b9ab-c56c7a5443a9
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: No process is on the other end of the pipe
+
+
+2019-08-21 18:39:12.1873|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: cf5e156d-500c-4e3a-ae0b-fce0713c0917
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:39:12.2033|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: cf5e156d-500c-4e3a-ae0b-fce0713c0917
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:39:12.6023|INFO|ProjectManager.Utils.LoggingUtility|Request ID: cf5e156d-500c-4e3a-ae0b-fce0713c0917
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'IIS APPPOOL\ProjectManagerServer'.
+
+
+2019-08-21 18:39:39.2165|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: fc134fe5-b132-4dc1-84f5-15a48abb29f7
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:39:39.2175|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: fc134fe5-b132-4dc1-84f5-15a48abb29f7
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:39:39.2175|INFO|ProjectManager.Utils.LoggingUtility|Request ID: fc134fe5-b132-4dc1-84f5-15a48abb29f7
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'IIS APPPOOL\ProjectManagerServer'.
+
+
+2019-08-21 18:39:40.4158|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 0639e2c5-6f61-4bdc-95f0-2d1ebb7bfd84
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:39:40.4158|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 0639e2c5-6f61-4bdc-95f0-2d1ebb7bfd84
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:39:40.4158|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 0639e2c5-6f61-4bdc-95f0-2d1ebb7bfd84
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'IIS APPPOOL\ProjectManagerServer'.
+
+
+2019-08-21 18:45:22.4002|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: da002c15-8326-4444-bfaf-a2c8bfcb399d
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:45:22.4002|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: da002c15-8326-4444-bfaf-a2c8bfcb399d
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:45:22.4102|INFO|ProjectManager.Utils.LoggingUtility|Request ID: da002c15-8326-4444-bfaf-a2c8bfcb399d
+Method: GET
+URL: http://localhost:8085/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'IIS APPPOOL\ProjectManagerServer'.
+
+
+2019-08-21 18:45:29.5741|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 36f3c5e5-000e-45a3-ba1f-ea34d6230748
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:45:29.5741|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 36f3c5e5-000e-45a3-ba1f-ea34d6230748
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:45:29.5821|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 36f3c5e5-000e-45a3-ba1f-ea34d6230748
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'IIS APPPOOL\ProjectManagerServer'.
+
+
+2019-08-21 18:51:32.1027|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 3bd93501-a064-43b8-b4c6-82d3c2c3d6cc
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:51:32.1477|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 3bd93501-a064-43b8-b4c6-82d3c2c3d6cc
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-21 18:51:32.8377|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 3bd93501-a064-43b8-b4c6-82d3c2c3d6cc
+Method: GET
+URL: http://localhost:8085/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'IIS APPPOOL\ProjectManagerServer'.
+
+
