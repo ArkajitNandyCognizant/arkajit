@@ -217,4 +217,3 @@ C:\Users\Administrator\Desktop\FSE_Certification(554590)\arkajit\server\ProjectM
 C:\Users\Administrator\Desktop\FSE_Certification(554590)\arkajit\server\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.xml
 C:\Users\Administrator\Desktop\FSE_Certification(554590)\arkajit\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.dll
 C:\Users\Administrator\Desktop\FSE_Certification(554590)\arkajit\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
-C:\Users\Administrator\Desktop\FSE_Certification(554590)\arkajit\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
