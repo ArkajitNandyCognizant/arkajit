@@ -1,27 +1,48 @@
-import { TestBed, async } from '@angular/core/testing';
+import { TestBed, async, ComponentFixture } from '@angular/core/testing';
+import { RouterTestingModule } from '@angular/router/testing';
+import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
+import { UserComponent } from './user/user.component';
+import { Ng5SliderModule } from 'ng5-slider';
+import { BsDatepickerModule } from 'ngx-bootstrap';
+import { ToastrModule } from 'ngx-toastr';
+import { FilteruserPipe } from './pipes/filteruser.pipe';
+import { ProjectComponent } from './project/project.component';
+import { AddTaskComponent } from './add-task/add-task.component';
+import { ViewTaskComponent } from './view-task/view-task.component';
+
 describe('AppComponent', () => {
+  let component: AppComponent;
+  let fixture: ComponentFixture<AppComponent>;
+
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [
-        AppComponent
+      imports: [
+        FormsModule,
+        RouterTestingModule,
+        Ng5SliderModule,
+        BsDatepickerModule.forRoot(),
+        ToastrModule.forRoot({
+          timeOut: 3000,
+          positionClass: 'toast-bottom-right',
+          preventDuplicates: true
+        })
       ],
-    }).compileComponents();
+      declarations: [
+        AppComponent,
+        FilteruserPipe,
+        UserComponent,
+        ProjectComponent,
+        AddTaskComponent,
+        ViewTaskComponent
+      ],
+    }).compileComponents().then(() => {
+      fixture = TestBed.createComponent(AppComponent);
+      component = fixture.debugElement.componentInstance;
+    });
   }));
-  it('should create the app', async(() => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.debugElement.componentInstance;
-    expect(app).toBeTruthy();
-  }));
-  it(`should have as title 'client'`, async(() => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('client');
-  }));
-  it('should render title in a h1 tag', async(() => {
-    const fixture = TestBed.createComponent(AppComponent);
-    fixture.detectChanges();
-    const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('h1').textContent).toContain('Welcome to client!');
-  }));
+
+  it('should create the Application', () => {
+    expect(component).toBeTruthy();
+  });
 });
